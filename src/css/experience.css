@@ -1,0 +1,126 @@
+.main-container{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0;
+    flex-direction: column;
+    padding-top: 120px;
+}
+
+.experience-heading-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.experience-heading{
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.experience-detail-super-container{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.experience-detail-container{
+    display: flex;
+    gap: 30px;
+}
+
+.date{
+    font-size: 20px;
+    height: 25vh;
+}
+
+.stepper-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+
+.after-first-experience{
+    height: 25vh;
+}
+
+.stepper-container .map{
+    font-size: 30px;
+    color: white;
+    background-color: blue;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.stepper-container .line{
+    width: 2px;
+    height: 35vh;
+     background-color: blue;
+}
+
+.experience-box{
+    height: 25vh;
+    width: 60vw;
+    background-color: white;
+    padding: 20px;
+}
+
+.employer-name{
+    font-size: 25px;
+}
+
+.job-title{
+    margin: 20px 0;
+}
+
+.job-detail{
+    line-height: 25px;
+    color: gray;
+}
+
+@media (max-width:480px) {
+    .main-container{
+        margin: 0;
+    }
+    .experience-heading{
+        font-size: 30px;
+    }
+
+    .experience-detail-container{
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .stepper-container{
+        height: 0;
+        display: none;
+    }
+
+    .date{
+        height: 5vh;
+        font-size: 18px;
+    }
+
+    .experience-box{
+        width: 95vw;
+        padding: 10px;
+        height: 60vh;
+        margin-top: -30px;
+        margin-bottom: 65px;
+        border-radius: 5px;
+    }
+
+    .employer-name{
+        font-size: 20px;
+    }
+
+    .job-title{
+        margin: 15px 0;
+    }
+}

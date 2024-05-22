@@ -1,0 +1,57 @@
+{
+  "project": [
+    {
+      "id": 1,
+      "name": "Blog Application",
+      "about": "The Blog Website is a full-stack web application designed for users to create, share, and engage with blog posts. The project incorporates user authentication, blog management, interaction features (likes, shares, comments), and ownership management for blog posts.",
+      "toolUsed": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Material UI",
+        "NPM",
+        "Mongoose",
+        "JWT",
+        "Bcrypt",
+        "Express Middleware",
+        "Context API",
+        "Cloudinary",
+        "Git & GitHub",
+        "Render.com",
+        "Netlify",
+        "VS Code"
+      ],
+      "codeLink": "https://github.com/anil1707/blog-UI",
+      "liveLink": "https://exquisite-mousse-a08a25.netlify.app/",
+      "projectOverView": "Create a full-stack blog website with user authentication, allowing users to register, log in, create, edit, and delete blog posts. Implement additional features such as user profiles, likes, shares, and comments on blog posts."
+    },
+    {
+      "id": 2,
+      "name": "Project 2",
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque sit amet metus ut egestas. In id enim bibendum, fringilla purus vitae, dictum orci. Pellentesque urna erat, iaculis nec diam id, hendrerit iaculis tortor. Maecenas sed ante ex. Ut tincidunt molestie leo vitae consequat. Aliquam non sem facilisis, tristique lacus vel, posuere arcu. Praesent tincidunt mattis tellus,",
+      "img": ""
+    },
+    {
+      "id": 3,
+      "name": "Project 3",
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque sit amet metus ut egestas. In id enim bibendum, fringilla purus vitae, dictum orci. Pellentesque urna erat, iaculis nec diam id, hendrerit iaculis tortor. Maecenas sed ante ex. Ut tincidunt molestie leo vitae consequat. Aliquam non sem facilisis, tristique lacus vel, posuere arcu. Praesent tincidunt mattis tellus,",
+      "img": ""
+    }
+  ],
+  "experience": [
+    {
+      "employer": "Employer 1",
+      "jobTitle": "Job Titlle",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque sit amet metus ut egestas. In id enim bibendum, fringilla purus vitae, dictum orci. Pellentesque urna erat, iaculis nec diam id, hendrerit iaculis tortor. Maecenas sed ante ex. Ut tincidunt molestie leo vitae consequat. Aliquam non sem facilisis, tristique lacus vel, posuere arcu. Praesent tincidunt mattis tellus,"
+    },
+    {
+      "employer": "Employer 2",
+      "jobTitle": "Job Titlle",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque sit amet metus ut egestas. In id enim bibendum, fringilla purus vitae, dictum orci. Pellentesque urna erat, iaculis nec diam id, hendrerit iaculis tortor. Maecenas sed ante ex. Ut tincidunt molestie leo vitae consequat. Aliquam non sem facilisis, tristique lacus vel, posuere arcu. Praesent tincidunt mattis tellus,"
+    }
+  ]
+}
