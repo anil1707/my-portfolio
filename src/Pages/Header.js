@@ -4,8 +4,6 @@ import { RxAvatar } from "react-icons/rx";
 import { useParams, useNavigate } from "react-router-dom";
 import { MdArrowBackIos } from "react-icons/md";
 
-
-
 const Header = () => {
   const [isHambunrgerOpe, setIsHamburgerOpen] = useState(false);
   const [screenWidth, setScreenWidth] = useState(window.innerWidth);
