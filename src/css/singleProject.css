@@ -3,15 +3,7 @@
 .project-name-detail-super-container {
   height: 70vh;
   background-color: #075181;
-  background-image: linear-gradient(
-    135deg,
-    #075181 0%,
-    #050fc9 19%,
-    #153e90 39%,
-    #3e7bbf 60%,
-    #031966 80%,
-    #091f52 100%
-  );
+  background-image: linear-gradient(90deg, rgba(95,141,237,1) 22%, rgba(153,162,162,1) 58%, rgba(111,168,247,1) 100%);
   display: flex;
   justify-content: center;
   align-items: center;

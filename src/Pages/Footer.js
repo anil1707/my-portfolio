@@ -13,8 +13,9 @@ const Footer = () => {
         <div className="name-detail-container">
           <p className="user-name">ANIL KUMAR YADAV</p>
           <p className="user-about">
-            Project 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Nam scelerisque sit amet metus ut egestas.
+            "Turning ideas into reality, one line of code at a time." Passionate
+            about crafting user-friendly, efficient solutions that make a
+            difference. Available for freelance projects and collaborations.
           </p>
         </div>
         <div>

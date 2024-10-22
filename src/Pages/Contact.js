@@ -52,10 +52,9 @@ const Contact = () => {
       </div>
       <div className="contact-form-super-container">
         <p className="contact-description">
-          Project 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam
-          scelerisque sit amet metus ut egestas. In id enim bibendum, fringilla
-          purus vitae, dictum orci. Pellentesque urna erat, iaculis nec diam id,
-          hendrerit iaculis tortor.
+          I’d love to hear from you! Whether you have a project in mind, a
+          question, or just want to say hello, feel free to reach out. Let’s
+          create something amazing together!
         </p>
 
         <div className="contact-form-parent-conatainer">
