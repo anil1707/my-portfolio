@@ -18,6 +18,7 @@ const Project = () => {
       </div>
       {projectData.project.length > 0 &&
         projectData.project.map((item, index) => {
+          console.log(item)
           return (
             <div className="single-project-container" key={index}>
               <img className="project-image" src={img1} alt="img" />

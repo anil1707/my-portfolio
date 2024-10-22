@@ -26,7 +26,7 @@ const Experience = () => {
               At Cognologix, I hold the position of a Test Developer,
               contributing my expertise to ensure the robustness and reliability
               of various projects. Additionally, I actively engage in frontend
-              development using React.js, showcasing my versatility by
+              development using React.js and React native, showcasing my versatility by
               seamlessly transitioning between the roles of a test developer and
               a frontend developer.
             </p>

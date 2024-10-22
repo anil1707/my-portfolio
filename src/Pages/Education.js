@@ -28,7 +28,7 @@ const Education = () => {
             </p>
             <p className="education-detail">
               I successfully completed my Bachelor of Technology (B.Tech) at REC
-              Sonbhadra with an impressive overall SGPA of 7.77, reflecting my
+              Sonbhadra with an impressive overall SGPA of 7.77 with distinction, reflecting my
               commitment to academic excellence.
             </p>
           </div>
@@ -36,7 +36,7 @@ const Education = () => {
 
         {/* second Education */}
         <div className="education-detail-container">
-          <p className="date">September 2015 - September 2017</p>
+          <p className="date">September 2016 - September 2017</p>
           <div className="stepper-container">
             <FaMapMarkerAlt className="map" />
             <p className="line"></p>
@@ -54,7 +54,7 @@ const Education = () => {
         {/* Third education */}
 
         <div className="education-detail-container">
-          <p className="date">September 2015 - September 2017</p>
+          <p className="date">September 2014 - September 2015</p>
           <div className="stepper-container">
             <FaMapMarkerAlt className="map" />
             <p className="line"></p>
@@ -64,7 +64,7 @@ const Education = () => {
             <p className="education-level">High School</p>
             <p className="education-detail">
               I have completed my High School from Sant Narayan Baba Public
-              Inter College, and I achieved 84.6%.
+              Inter College, and I achieved 86.6%.
             </p>
           </div>
         </div>

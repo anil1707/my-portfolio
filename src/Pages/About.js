@@ -6,6 +6,7 @@ const About = () => {
     "Node.js",
     "Express.js",
     "React.js",
+    "React Native",
     "MongoDb",
     "JavaScript",
     "MySql",
@@ -15,7 +16,8 @@ const About = () => {
     "Java",
     "Material UI",
     "Talwind CSS",
-    "Redux",  
+    "React Native Element",
+    "Redux",
     "HTML5",
     "CSS3",
   ];
@@ -25,26 +27,36 @@ const About = () => {
         <p className="about-header">About Me</p>
         <div className="underline"></div>
         <p className="about-description">
-          Hello, I'm Anil Kumar Yadav, a dedicated web developer with a
-          comprehensive skill set spanning both frontend and backend
+          Hello, I'm Anil Kumar Yadav, a dedicated software developer with a
+          comprehensive skill set spanning both{" "}
+          <span style={{ fontWeight: "bold" }}>frontend and backend </span>
           technologies. In the realm of UI development, I am well-versed in
-          using tools like React.js, HTML, CSS and JavaScript to craft visually stunning
-          and interactive user interfaces. My passion lies in transforming
-          design concepts into seamless, engaging web experiences.
+          using tools like{" "}
+          <span style={{ fontWeight: "bold" }}>
+            React.js, React Native, HTML, CSS and JavaScript
+          </span>{" "}
+          to craft visually stunning and interactive user interfaces. My passion
+          lies in transforming design concepts into seamless, engaging web
+          experiences.
           <br />
           <br />
-          On the backend, I harness the power of Node.js and Express to build
-          robust server-side logic, ensuring efficient request handling and
-          smooth communication between the frontend and backend. Proficient in
-          database management, I leverage MongoDB and MySQL to store and
-          retrieve data, contributing to the robustness of web applications.
+          On the backend, I harness the power of{" "}
+          <span style={{ fontWeight: "bold" }}>Node.js and Express </span> to
+          build robust server-side logic, ensuring efficient request handling
+          and smooth communication between the frontend and backend. Proficient
+          in database management, I leverage{" "}
+          <span style={{ fontWeight: "bold" }}>MongoDB and MySQL </span> to
+          store and retrieve data, contributing to the robustness of web
+          applications.
           <br />
-          <br />  
+          <br />
           In addition to my frontend and backend expertise, I am well-acquainted
-          with the Cypress testing tool. With Cypress, I ensure the reliability
-          and functionality of web applications through effective end-to-end
-          testing. This proficiency allows me to deliver applications with a
-          high level of quality and performance.
+          with the{" "}
+          <span style={{ fontWeight: "bold" }}>Cypress testing tool </span>.
+          With Cypress, I ensure the reliability and functionality of web
+          applications through effective end-to-end testing. This proficiency
+          allows me to deliver applications with a high level of quality and
+          performance.
         </p>
       </div>
       <div className="skill-super-container">
@@ -53,12 +65,15 @@ const About = () => {
           <p className="know-me-container-second-child">
             As a dedicated and versatile software developer, I bring a passion
             for turning innovative ideas into efficient and user-friendly
-            software solutions. With a strong foundation in React.js, JavaScript, HTML5, CSS3, Node.js, Express.js, Material UI, Cypress, Java, MongoDB and MySQL, I am committed to
-            delivering high-quality code, solving complex problems, and
-            contributing to the success of projects through collaboration and
-            continuous learning.
+            software solutions. With a strong foundation in React.js,
+            JavaScript, HTML5, CSS3, Node.js, Express.js, Material UI, Cypress,
+            Java, MongoDB and MySQL, I am committed to delivering high-quality
+            code, solving complex problems, and contributing to the success of
+            projects through collaboration and continuous learning.
           </p>
-          <a href="#contact" className="contact-btn">CONTACT</a>
+          <a href="#contact" className="contact-btn">
+            CONTACT
+          </a>
         </div>
         <div className="skill-container">
           <p className="skill-container-first-child">My Skills!</p>

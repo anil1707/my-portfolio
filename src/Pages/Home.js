@@ -48,7 +48,12 @@ const Home = () => {
         <div className="name-description-container">
           <p className="home-heading">Hey, my name is Anil Yadav</p>
           <p className="description">
-          A well-rounded web developer often has skills in both frontend and backend development and understands the importance of testing to ensure a reliable and robust application. The combination of these skills contributes to the development of high quality web applications that provide an intuitive user experience.
+            A well-rounded software developer often has skills in both
+            frontend(React, React Native) and backend(Node) development and
+            understands the importance of testing to ensure a reliable and
+            robust application. The combination of these skills contributes to
+            the development of high quality web applications that provide an
+            intuitive user experience.
           </p>
           <a href="#projects" className="project-btn">
             <p>Projects</p>
